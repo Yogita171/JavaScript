@@ -44,9 +44,9 @@ const balance=1000
 // }
 
 
-// const loggedInFromGoogle=false
-// const loggedInFromEmail=true
+const loggedInFromGoogle=false
+const loggedInFromEmail=true
 
-// if(loggedInFromGoogle || loggedInFromEmail){
-//     console.log("User logged in")
-// }
+if(loggedInFromGoogle || loggedInFromEmail){
+    console.log("User logged in")
+}
